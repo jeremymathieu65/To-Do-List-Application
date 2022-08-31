@@ -1,3 +1,7 @@
+# Overview
+
+This repository houses the code of a To-Do List application I developed as part of a crash course on ReactJS (Course Link: [https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4788s](https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4788s))
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
